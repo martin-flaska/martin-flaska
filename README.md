@@ -8,26 +8,62 @@ Over the years, I've had the chance to work on some pretty cool stuff - from bui
 
 ![VisitCount](https://komarev.com/ghpvc/?username=martin-flaska&style=for-the-badge&color=282c34)
 
-## Technologies & Skills
+## Skills / Experiences:
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks / Platform / Libraries
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![STL](https://img.shields.io/badge/STL-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Poco](https://img.shields.io/badge/Poco-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Test](https://img.shields.io/badge/Google%20Test-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Qt Test](https://img.shields.io/badge/Qt%20Test-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-### Development Tools
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Platforms
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-%23FF6F00.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![x86](https://img.shields.io/badge/x86-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
+
+### CI/CD
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### SCM
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/svn-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+![CVS](https://img.shields.io/badge/CVS-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Scheduling Systems
+![Kanban](https://img.shields.io/badge/Kanban-%230052CC.svg?style=for-the-badge&logo=kanban&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-%23009639.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+### Bug Tracking
+![Bugzilla](https://img.shields.io/badge/Bugzilla-%23CC0000.svg?style=for-the-badge&logo=mozilla&logoColor=white)
+![FogBugz](https://img.shields.io/badge/FogBugz-%23000000.svg?style=for-the-badge&logo=fogbugz&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Other
+![IoT](https://img.shields.io/badge/IoT-%23000000.svg?style=for-the-badge&logo=internetofthings&logoColor=white)
+![KNX](https://img.shields.io/badge/KNX-%23009639.svg?style=for-the-badge&logo=knx&logoColor=white)
+![Matter](https://img.shields.io/badge/Matter-%23000000.svg?style=for-the-badge&logo=matter&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/BT/BLE-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-%23FF6F00.svg?style=for-the-badge&logo=electronics&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-%23FF6F00.svg?style=for-the-badge&logo=scada&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN/CANopen-%23000000.svg?style=for-the-badge&logo=can&logoColor=white)
+![IEC](https://img.shields.io/badge/IEC%2060870-%23000080.svg?style=for-the-badge&logo=iec&logoColor=white)
+![Deezer](https://img.shields.io/badge/Deezer-%23FEAA2D.svg?style=for-the-badge&logo=deezer&logoColor=white)
+![iHeart](https://img.shields.io/badge/iHeart-%23C6002B.svg?style=for-the-badge&logo=iheartradio&logoColor=white)
+![Pandora](https://img.shields.io/badge/Pandora-%23005483.svg?style=for-the-badge&logo=pandora&logoColor=white)
+![Rhapsody](https://img.shields.io/badge/Rhapsody-%23000000.svg?style=for-the-badge&logo=music&logoColor=white)
+![SiriusXM](https://img.shields.io/badge/SiriusXM-%23000000.svg?style=for-the-badge&logo=siriusxm&logoColor=white)
+![TuneIn](https://img.shields.io/badge/TuneIn-%23000000.svg?style=for-the-badge&logo=tunein&logoColor=white)
 
 ### Specialized Technologies
 - **IoT & Smart Home**: KNX, Matter, BT/BLE
