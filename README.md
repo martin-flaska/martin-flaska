@@ -1,16 +1,16 @@
 # Martin Flaška
 
-## 👨‍💻 Software Engineer | Embedded Systems Specialist | IoT Expert
+## Software Engineer | Embedded Systems Specialist | IoT Expert
+
+Hey there! I'm a software engineer who's spent most of my career working with embedded systems, IoT devices, and industrial software. I really enjoy the challenge of making different technologies work together - whether that's C++ on Linux, integrating with KNX smart home systems, or getting music streaming services to play nicely with hardware.
+
+Over the years, I've had the chance to work on some pretty cool stuff - from building multiroom audio systems that actually work reliably, to developing monitoring solutions for refineries (where things absolutely cannot go wrong), and even helping power grids in Slovakia and Czech Republic run more smoothly. What I love most is taking complex technical problems and turning them into solutions that people can actually use in the real world.
 
 ![VisitCount](https://komarev.com/ghpvc/?username=martin-flaska&style=for-the-badge&color=282c34)
 
-I'm a software engineer with extensive experience in embedded systems, IoT, and industrial applications. My expertise spans across multiple programming languages, frameworks, and platforms, with a focus on creating robust, efficient solutions for complex technical challenges.
+## Technologies & Skills
 
-Throughout my career, I've worked on diverse projects ranging from distributed audio systems to safety-critical monitoring solutions and power grid SCADA systems. I'm passionate about implementing efficient development processes and delivering high-quality software that meets real-world needs.
-
-## 🔧 Technologies & Skills
-
-### 💻 Languages
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,14 +18,14 @@ Throughout my career, I've worked on diverse projects ranging from distributed a
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🛠️ Frameworks & Libraries
+### Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-### 🖥️ Platforms
+### Platforms
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### 🔧 Development Tools
+### Development Tools
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -34,17 +34,17 @@ Throughout my career, I've worked on diverse projects ranging from distributed a
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### 🌐 Other Technologies
+### Other Technologies
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-### 🏭 Specialized Technologies
+### Specialized Technologies
 - **IoT & Smart Home**: KNX, Matter, BT/BLE
 - **Industrial**: SCADA, IEC 60870, CAN/CANopen
 - **Embedded**: Yocto, ARM, x86 architectures
 - **Music Services**: Deezer, iHeart, Pandora, Rhapsody, SiriusXM, TuneIn
 
-### 📋 Methodologies
+### Methodologies
 - **Agile**: Kanban, Scrum
 - **DevOps**: CI/CD, Jenkins
 - **Testing**: Google Test, Qt Test
