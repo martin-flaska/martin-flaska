@@ -76,26 +76,6 @@ Over the years, I've had the chance to work on some pretty cool stuff - from bui
 - **DevOps**: CI/CD, Jenkins
 - **Testing**: Google Test, Qt Test
 
-## Featured Projects
-
-### Nuvo Player
-A distributed multiroom wireless audio system based on the Linux platform, integrated with various music services and IoT/KNX network.
-- **Role**: Led development of music services and IoT/KNX integration
-- **Outcome**: The product achieved significant success in the global market
-- **Technologies**: Linux, C++, IoT, KNX, Music Services
-
-### Remote Power Grid SCADA Systems
-QNX-based solutions designed for controlling and monitoring power grids, as well as transmitting NF-modulated signals over high-voltage power lines.
-- **Role**: Improved the team's software development cycle by implementing a CI/CD system
-- **Outcome**: Successfully deployed across most electrical distribution networks in Slovakia and the Czech Republic
-- **Technologies**: QNX, SCADA, CI/CD, Power Grid
-
-### Remote Monitoring System
-An intercom product solution used in a safety-critical environment (refinery).
-- **Role**: Developed embedded Linux components (C++, Yocto), integrating SIP client, various peripheral monitors, BT LE, RFID and battery chargers
-- **Outcome**: The product was successfully deployed and is currently being further improved with new features
-- **Technologies**: Embedded Linux, C++, Yocto, BT LE, RFID
-
 ---
 
 💼 Open to collaboration and new opportunities in embedded systems, IoT, and industrial software development.
