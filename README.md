@@ -2,9 +2,9 @@
 
 ## Software Engineer | Linux Embedded Systems Specialist
 
-Hey there! I'm a software engineer who's spent most of my career working with embedded systems, IoT devices, and industrial software. I really enjoy the challenge of making different technologies work together - whether that's C++ on Linux, integrating with KNX smart home systems, or getting music streaming services to play nicely with hardware.
+Hi, I'm a software engineer with a background in embedded systems, IoT, and industrial software. I enjoy figuring out how different technologies can work together. Whether it's C++ on Linux, integrating KNX smart home systems, or getting music streaming services to play nicely with hardware.
 
-Over the years, I've had the chance to work on some pretty cool stuff - from building multiroom audio systems that actually work reliably, to developing monitoring solutions for refineries (where things absolutely cannot go wrong), and even helping power grids in Slovakia and Czech Republic run more smoothly. What I love most is taking complex technical problems and turning them into solutions that people can actually use in the real world.
+I've been lucky to work on some interesting projects over the years, from building multiroom audio systems that actually work reliably, to creating monitoring solutions for refineries (where nothing can go wrong), and even helping power grids in Slovakia and the Czech Republic run more smoothly. What I enjoy most is taking tricky technical problems and turning them into solutions people can actually use.
 
 ![VisitCount](https://komarev.com/ghpvc/?username=martin-flaska&style=for-the-badge&color=282c34)
 
